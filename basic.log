@@ -1,0 +1,14 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 967-912-590
+INFO:werkzeug: * Detected change in 'C:\\Users\\Àéðàò\\PycharmProjects\\23HW\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 967-912-590
+INFO:werkzeug:127.0.0.1 - - [03/Aug/2022 09:06:13] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Aug/2022 09:06:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-201-354
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
